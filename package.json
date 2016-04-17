@@ -22,5 +22,8 @@
     "grunt-contrib-watch": "^1.0.0",
     "grunt-typescript": "^0.8.0",
     "typescript": "^1.8.10"
+  },
+  "dependencies": {
+    "express": "^4.13.4"
   }
 }
