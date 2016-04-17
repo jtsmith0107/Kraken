@@ -19,8 +19,8 @@ module.exports = function (grunt) {
                 src: ['web/src/**/*.ts'],
                 dest: 'web/dist/',
                 options: {
-                    module: 'amd',
-                    target: 'es5',
+                    module: 'es2015',
+                    target: 'ES6',
                     sourceMap: true
                 }
             }
