@@ -1,0 +1,12 @@
+{
+    "compilerOptions": {
+        "rootDir": "./src",
+        "module": "commonjs",
+        "sourceMap": true
+    },
+    "files": [
+        "../typings/main.d.ts",
+        "./src/routes/index.ts",
+        "./src/app.ts"
+    ]
+}
