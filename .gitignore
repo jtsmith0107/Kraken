@@ -34,3 +34,4 @@ node_modules
 
 web/dist/
 app/dist/
+_bower_components/
