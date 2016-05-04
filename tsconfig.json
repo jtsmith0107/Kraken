@@ -1,0 +1,14 @@
+{
+    "compilerOptions": {
+
+        "rootDir": "./src",
+        "module": "commonjs",
+        "sourceMap": true
+    },
+    "exclude": [
+        "typings/browser",
+        "typings/browser.d.ts",
+        "node_modules",
+        "./web/"        
+    ]
+}

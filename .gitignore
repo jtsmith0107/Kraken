@@ -34,3 +34,7 @@ node_modules
 
 web/dist/
 app/dist/
+
+*.js
+*.js.map
+typings/
