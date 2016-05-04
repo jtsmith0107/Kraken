@@ -38,3 +38,5 @@ app/dist/
 *.js
 *.js.map
 typings/
+
+_bower_components/

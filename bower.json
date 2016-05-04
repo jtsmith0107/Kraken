@@ -1,0 +1,24 @@
+{
+  "name": "kraken",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "Andre Tran"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/krakenteam/Kraken",
+  "moduleType": [
+    "es6"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "app/_bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "react": "^15.0.1"
+  }
+}
